@@ -9,10 +9,10 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = false;                //auto recording by default off.
-global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
+global.autoTyping = true;                //auto tying by default off.
+global.autoRecord = true;                //auto recording by default off.
+global.groupevent = true;                //This is the new variable for controlling group event handling.
+global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
 
 
@@ -21,11 +21,11 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
+global.Owner = ["+94704020146", "+94718625348"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94704020146", "+94718625348"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+94704020146"];
+global.OwnerName = "𝑆𝐿 𝛲𝛥𝛭𝛪𝑌𝛥";
+global.BotName = "𝐷𝛥𝑅𝛫 𝐹𝛩𝑅𝛧𝛯𝛮 𝛭𝐷 𝐵𝛩𝑇  [ 1 ]";
 global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
 global.author = "SACHITH";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
@@ -50,9 +50,9 @@ global.lolhuman = "Sachith";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
+global.BotLogo = fs.readFileSync("https://telegra.ph/file/e6a2bdcca15340226eff2.jpg");
+global.Thumb = fs.readFileSync("https://telegra.ph/file/e6a2bdcca15340226eff2.jpg");
+global.Thumb1 = fs.readFileSync(".https://telegra.ph/file/e6a2bdcca15340226eff2.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
 
 
